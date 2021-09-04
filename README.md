@@ -16,7 +16,7 @@
   <img align="center" alt="Glauber-C++" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Glauber-Arduino" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg">
   <img align="center" alt="Glauber-Oracle" height="70" width="50" src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg">
-  <img align="right" alt="gif_gato" width="200" height="200"" src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif"  />
+  <img align="right" alt="gif_gato" width="400" height="200"" src="https://media3.giphy.com/media/zXmbOaTpbY6mA/giphy.gif?cid=ecf05e47e9m8e05dkk5ds4q1sndn3q6d9nbtf0jci290xcvz&rid=giphy.gif&ct=g"  />
   
   
   
