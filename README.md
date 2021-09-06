@@ -18,12 +18,12 @@
   <img align="center" alt="Glauber-Oracle" height="70" width="50" src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg">
   <img align="right" alt="gif_gato" width="400" height="200"" src="https://media3.giphy.com/media/zXmbOaTpbY6mA/giphy.gif?cid=ecf05e47e9m8e05dkk5ds4q1sndn3q6d9nbtf0jci290xcvz&rid=giphy.gif&ct=g"  />
   
-  
+  ![Snake animation](https://github.com/glauberapolinario/glauberapolinario/blob/output/github-contribution-grid-snake.svg)
   
  </div>
  
  <div>
-  ![Snake animation](https://github.com/glauberapolinario/glauberapolinario/blob/output/github-contribution-grid-snake.svg)
+  
  </div>
 <!--
 **GlauberApolinario/GlauberApolinario** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
