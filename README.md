@@ -1,5 +1,5 @@
 ### Hi there🐱‍👤
-Atualmente cursando Jogos Digitais na Estacia de Sá BH e fazendo o curso Full Stack na Labenu, pretendo recuperar o tempo perdido em que fiquei fora da área e me capacitar o máximo possivel para voltar ao mercado de trabalho! <br>
+Atualmente cursando Jogos Digitais na Estacio de Sá BH e fazendo o curso Full Stack na Labenu, pretendo recuperar o tempo perdido em que fiquei fora da área e me capacitar o máximo possivel para voltar ao mercado de trabalho! <br>
 
  <div>
   <a href="https://github.com/glauberapolinario">
